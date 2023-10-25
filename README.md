@@ -2,7 +2,7 @@
 
 ## 概要
 Iot開発演習にて作成したものです。
-詳細は[PDFファイル](https://drive.google.com/file/d/1KZQJDupyq2HnNTpjn4y3DTfPF6AsvXae/view?usp=sharing)を参照してください。
+詳細は[PDFファイル](https://drive.google.com/file/d/1L0-gFUOJpZhbsx69ru6SLfGdGTA-sLBi/view?usp=sharing)を参照してください。
 
 ## 使用デバイス
 - Arduino（ESP32 Dev Module）
